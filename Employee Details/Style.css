@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #2a9d8f;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+}
+form{
+    display: grid;
+    place-items: center;
+   
+}
