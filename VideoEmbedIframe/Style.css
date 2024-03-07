@@ -1,0 +1,12 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+iframe{
+    position: relative;
+    left: 10%;
+}
+a{
+    display: flex;
+    padding-left: 10%;
+}
